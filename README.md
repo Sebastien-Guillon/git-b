@@ -3,3 +3,5 @@
 ## Contributeurs
 
 * Sébastien Guillon.
+
+* Farid Soufyani
