@@ -7,7 +7,7 @@
 * Radhia Farhi - update auteur-
 * Bonjour les amis
 
-Attention ,sa supprime
+* Hery, ça arrive
 
 
 * Hery 7 minutes
