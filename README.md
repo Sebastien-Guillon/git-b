@@ -3,4 +3,3 @@
 ## Contributeurs
 
 * Sébastien Guillon.
-*Pickle Mick.
